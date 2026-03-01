@@ -15,7 +15,7 @@ This project was managed using the "Project Management for the Unofficial Projec
 
 * [**Project Scope (`scope.md`)**](https://github.com/greg01134/beginners-barbell/blob/main/final-project-scope.md): Defines the project justification, deliverables, and boundaries.
 * [**Project Plan (`plan.md`)**](https://github.com/greg01134/beginners-barbell/blob/main/plan.md): Contains the Work Breakdown Structure (WBS) and a TAME Risk Analysis.
-* [**Retrospective (`retrospective.md`)**](docs/retrospective.md): A post-project reflection on what went well, what went wrong, and what to improve next time.
+* [**Retrospective (`retrospective.md`)**](https://github.com/greg01134/beginners-barbell/blob/main/retrospective.md): A post-project reflection on what went well, what went wrong, and what to improve next time.
 
 ## 🛠️ Technical Details
 This project was built using:
