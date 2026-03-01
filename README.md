@@ -8,7 +8,7 @@ The gym environment can often feel overwhelming for beginners. "The Beginner's B
 This repository serves as the complete project package for **Project 03**, demonstrating both technical web development skills and professional project management documentation.
 
 ## 🚀 Live Website
-* [Click here to view the live site!](https://YOUR-GITHUB-USERNAME.github.io/beginners-barbell) *(Note: Update this link once GitHub Pages is enabled)*
+* [Click here to view the live site!](https://github.com/greg01134/beginners-barbell) *(Note: Update this link once GitHub Pages is enabled)*
 
 ## 📁 Project Documentation
 This project was managed using the "Project Management for the Unofficial Project Manager" (PMUPM) framework. All planning and reflection documents are located in the [`docs/`](docs/) folder:
